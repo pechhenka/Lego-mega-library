@@ -4,9 +4,9 @@ This repository is a collection of ready-made solutions to various problems.
 
 ## Description of contained libraries
 
-* **PID regulation** - Using this library, you can create any quantity of controllers with different configurations, that is, P, I, PI, PD, PID, etc.
-* **Reflected Light Calibration** - Using this library, you can calibrate the sensors so that on the same gray tint they produce the same values, indicating their minimum output value (black color) and maximum (white color)
-* **ColorSensorRGB** - Read color sensor a value from an RGB 
+* [**PID regulation**](https://github.com/pechhenka/Lego-mega-library/tree/master/PID%20regulation) - Using this library, you can create any quantity of controllers with different configurations, that is, P, I, PI, PD, PID, etc.
+* [**Reflected Light Calibration**](https://github.com/pechhenka/Lego-mega-library/tree/master/Reflected%20Light%20Calibration) - Using this library, you can calibrate the sensors so that on the same gray tint they produce the same values, indicating their minimum output value (black color) and maximum (white color)
+* [**ColorSensorRGB**](https://github.com/pechhenka/Lego-mega-library/tree/master/ColorSensorRGB) - Read color sensor a value from an RGB 
 
 ## How install?
 
@@ -38,5 +38,5 @@ if the file is with the extension ***.ev3b**:
 
 ![Import Mastert](https://raw.githubusercontent.com/pechhenka/Lego-mega-library/master/readme%20files/ImportMaster.png)
 
-**Complete! Now the block is somewhere in the blocks panel!** Follow this steps if you still need to install other libraries.
+**Complete! Reload the development environment and now the block is somewhere in the blocks panel!** Follow this steps if you still need to install other libraries.
 
